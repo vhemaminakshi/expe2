@@ -1,2 +1,6 @@
 this is file1
+<<<<<<< HEAD
 this is in main
+=======
+this ls line2
+>>>>>>> feature-branch
