@@ -1,6 +1,4 @@
-this is file1
-<<<<<<< HEAD
+it is  file1
 this is in main
-=======
-this ls line2
+feature-branch line2
 >>>>>>> feature-branch
